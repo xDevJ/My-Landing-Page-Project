@@ -1,1 +1,1 @@
-# My-Landing-Page-Project
+This is my first landing page but I have a bunch of difficulties likefitting the back-ground color for certain elements to fit the page. Also tried adjusting the first image of the header to certain width and height. Pictures I used were from pixabay.com and external links are directed to an anime wikipedia.# My-Landing-Page-Project
