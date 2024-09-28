@@ -174,13 +174,11 @@ button {
 }
 .footer {
     display:block;
-    margin:0;
     background-color: #1f2937;
     color:white;
     justify-content:center;
     width:96vw;
     text-align:center;
-    padding:24px;
+    padding:26px;
 }
-
 
