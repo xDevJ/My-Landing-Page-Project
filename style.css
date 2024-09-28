@@ -173,13 +173,14 @@ button {
 
 }
 .footer {
-    display:flex;
+    display:block;
     margin:0;
-    padding:0;
     background-color: #1f2937;
     color:white;
-    padding:24px;
     justify-content:center;
-    width:1270px;
+    width:96vw;
+    text-align:center;
+    padding:24px;
 }
+
 
